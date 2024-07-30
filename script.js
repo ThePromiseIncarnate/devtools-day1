@@ -59,8 +59,8 @@ let user = {name: 'Alice' };
 console.log(user.name)
 
 // Error 14: Numbers can't be uppercase!
-let someNumber = 123;
-console.log(someNumber.toUpperCase); 
+// let someNumber = 123;
+// console.log(someNumber.toUpperCase); 
 
 // Error 15: 
 let greeting = "Hello, world!";
