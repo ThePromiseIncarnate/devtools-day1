@@ -91,8 +91,8 @@ let x
 x = 5;
 console.log(x);
 
-// Error 20:
+// Error 20: I still don't get this one but it's not undefined anymore
 let myString = 'Hello';
-myString.property = 'World';
-console.log(myString.property); 
+myString += ' World';
+console.log(myString); 
 
