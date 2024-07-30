@@ -44,15 +44,15 @@ console.log('Sum is: ' + (number1 - number2));
 
 // Error 10:
 let caseSensitiveVar = 'Case matters';
-console.log(CaseSensitiveVar);
+console.log(caseSensitiveVar);
 
 // Error 11:
 let importantData =
   "This string must be logged to the console. It's important!";
 console.log('importantData');
 
-// Error 12: 
-tryToCallFunction();
+// Error 12: There is no function by that name. Just remove this line.
+// tryToCallFunction();
 
 // Error 13:
 let user = { namee: 'Alice' };
