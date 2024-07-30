@@ -49,16 +49,16 @@ console.log(caseSensitiveVar);
 // Error 11:
 let importantData =
   "This string must be logged to the console. It's important!";
-console.log('importantData');
+console.log(importantData);
 
 // Error 12: There is no function by that name. Just remove this line.
 // tryToCallFunction();
 
 // Error 13:
-let user = { namee: 'Alice' };
+let user = {name: 'Alice' };
 console.log(user.name)
 
-// Error 14: 
+// Error 14: Numbers can't be uppercase!
 let someNumber = 123;
 console.log(someNumber.toUpperCase); 
 
@@ -87,6 +87,7 @@ numbers.push(1);
 console.log(numbers);
 
 // Error 19:
+let x
 console.log(x);
 x = 5;
 
