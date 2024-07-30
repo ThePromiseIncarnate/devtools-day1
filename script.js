@@ -4,7 +4,7 @@ console.log(message);
 
 // Error 2: 
 let button = document.querySelector('.actionButton'); 
-button.addEventListener('click', eventHandler); 
+actionButton.addEventListener('click', eventHandler); 
 
 // Error 3: 
 function eventHandler() {
