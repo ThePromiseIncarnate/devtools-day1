@@ -60,13 +60,13 @@ console.log(user.name)
 
 // Error 14: 
 let someNumber = 123;
-console.log(someNumber.toUpperCase()); 
+console.log(someNumber.toUpperCase); 
 
 // Error 15: 
 let greeting = "Hello, world!";
 
-// Error 16: 
-for (let i = 0; i < 5; i++); {
+// Error 16: i hate you so much, all i had to do was remove the ;
+for (let i=0; i<5; i++) {
     console.log(i);
 }
 
