@@ -72,24 +72,24 @@ for (let i=0; i<5; i++) {
 
 // Error 17:
 let five = '5';
-if (five === 5) {
+if (five == 5) {
     console.log('Five is equal to 5'); // This one should be logged
 } else {
     console.log('Five is not equal to 5'); 
 }
 
-// Error 18:
-Array.prototype.push = function() {
-    console.log('Array push method is overwritten');
-};
+// Error 18: bro
+// Array.prototype.push = function() {
+//     console.log('Array push method is overwritten');
+// };
 let numbers = [];
 numbers.push(1);
 console.log(numbers);
 
 // Error 19:
 let x
-console.log(x);
 x = 5;
+console.log(x);
 
 // Error 20:
 let myString = 'Hello';
