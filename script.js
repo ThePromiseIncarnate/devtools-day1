@@ -21,12 +21,13 @@ function displayOutput() {
 // Error 6: Misusing variable scope
 function updateMessage() {
   let localMessage = 'Updated message';
+  console.log(localMessage);
 }
-updateMessage();
-console.log(localMessage); 
+// updateMessage();
+ 
 
 // Error 7:
-document.getElementById('testButton').addEventListener('click', testFunction());
+document.getElementById('testButton').addEventListener('click', testFunction);
 
 function testFunction() {
   console.log('Test function executed');
@@ -37,9 +38,9 @@ let number1 = 10;
 let number2 = 5;
 console.log('Sum is: ' + (number1 - number2));
 
-// Error 9: 
-let nullVar = null;
-console.log(nullVar.length);
+// Error 9: nullVar LITERALLY has "null" as its value, and you can't read properties of null. Nothing I do can make console.log read the length of the variable's value of "null" without just changing the value of the variable's value entirely.
+// let nullVar = null;
+// console.log(nullVar.length);
 
 // Error 10:
 let caseSensitiveVar = 'Case matters';
