@@ -1,6 +1,6 @@
 // Error 1:
 let message = 'Welcome to the debugging exercise!';
-console.log(mesage); 
+console.log(message); 
 
 // Error 2: 
 let button = document.querySelector('.actionButton'); 
@@ -62,7 +62,7 @@ let someNumber = 123;
 console.log(someNumber.toUpperCase()); 
 
 // Error 15: 
-let greeting = Hello, world!;
+let greeting = "Hello, world!";
 
 // Error 16: 
 for (let i = 0; i < 5; i++); {
@@ -75,6 +75,7 @@ if (five === 5) {
     console.log('Five is equal to 5'); // This one should be logged
 } else {
     console.log('Five is not equal to 5'); 
+}
 
 // Error 18:
 Array.prototype.push = function() {
