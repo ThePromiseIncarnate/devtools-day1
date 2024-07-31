@@ -7,4 +7,4 @@
 - 'task-7': 'Pyramid',
 - 'task-8': 'Butterfly',
 - 'task-9': 'Comet',
-- 'task-10': 'Secret Message for Task 10',
+- 'task-10': 'Volcano',
