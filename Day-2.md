@@ -1,4 +1,4 @@
-- 'task-1': 'Secret Message for Task 1',
+- 'task-1': 'Pancakes',
 - 'task-2': 'Secret Message for Task 2',
 - 'task-3': 'Secret Message for Task 2',
 - 'task-4': 'Secret Message for Task 2',
