@@ -5,6 +5,6 @@
 - 'task-5': 'Dinosaur',
 - 'task-6': 'Rainbow',
 - 'task-7': 'Pyramid',
-- 'task-8': 'Secret Message for Task 2',
-- 'task-9': 'Secret Message for Task 2',
+- 'task-8': 'Butterfly',
+- 'task-9': 'Comet',
 - 'task-10': 'Secret Message for Task 10',
