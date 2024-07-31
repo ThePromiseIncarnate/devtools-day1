@@ -1,6 +1,6 @@
 - 'task-1': 'Pancakes',
-- 'task-2': 'Secret Message for Task 2',
-- 'task-3': 'Secret Message for Task 2',
+- 'task-2': 'Waffles',
+- 'task-3': 'French Toast',
 - 'task-4': 'Secret Message for Task 2',
 - 'task-5': 'Secret Message for Task 2',
 - 'task-6': 'Secret Message for Task 2',
