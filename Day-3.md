@@ -1,5 +1,5 @@
 - Tasks
- - 'task-1': 'Secret Message for Task 1',
+ - 'task-1': 'Whisper',
  - 'task-2': 'Secret Message for Task 2',
  - 'task-3': 'Secret Message for Task 2',
  - 'task-4': 'Secret Message for Task 2',
@@ -11,4 +11,4 @@
  - 'task-10': 'Secret Message for Task 10',
 
 - Errors
- - Include a section on how you handled the errors encountered.
+ - 'task-1': Swap out 'undefinedVariable' for 'theSecretMessage'. 
