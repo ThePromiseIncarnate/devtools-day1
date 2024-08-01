@@ -1,7 +1,7 @@
 - Tasks
  - 'task-1': 'Whisper',
- - 'task-2': 'Secret Message for Task 2',
- - 'task-3': 'Secret Message for Task 2',
+ - 'task-2': 'Meadow',
+ - 'task-3': 'French Toast',
  - 'task-4': 'Secret Message for Task 2',
  - 'task-5': 'Secret Message for Task 2',
  - 'task-6': 'Secret Message for Task 2',
@@ -12,3 +12,4 @@
 
 - Errors
  - 'task-1': Swap out 'undefinedVariable' for 'theSecretMessage'. 
+ - 'task-2': 
