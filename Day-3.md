@@ -2,8 +2,8 @@
  - 'task-1': 'Whisper',
  - 'task-2': 'Meadow',
  - 'task-3': 'French Toast',
- - 'task-4': 'Secret Message for Task 2',
- - 'task-5': 'Secret Message for Task 2',
+ - 'task-4': 'Galaxy',
+ - 'task-5': 'Dinosaur',
  - 'task-6': 'Secret Message for Task 2',
  - 'task-7': 'Secret Message for Task 2',
  - 'task-8': 'Secret Message for Task 2',
@@ -13,3 +13,4 @@
 - Errors
  - 'task-1': Swap out 'undefinedVariable' for 'theSecretMessage'. 
  - 'task-2': 
+ - 'task-3', 'task-4', 'task-5', 'task-6': Remove 'console.log(loopVariable);' because it's undefined.
