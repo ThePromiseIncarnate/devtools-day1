@@ -1,0 +1,14 @@
+- Tasks
+ - 'task-1': 'Secret Message for Task 1',
+ - 'task-2': 'Secret Message for Task 2',
+ - 'task-3': 'Secret Message for Task 2',
+ - 'task-4': 'Secret Message for Task 2',
+ - 'task-5': 'Secret Message for Task 2',
+ - 'task-6': 'Secret Message for Task 2',
+ - 'task-7': 'Secret Message for Task 2',
+ - 'task-8': 'Secret Message for Task 2',
+ - 'task-9': 'Secret Message for Task 2',
+ - 'task-10': 'Secret Message for Task 10',
+
+- Errors
+ - Include a section on how you handled the errors encountered.
